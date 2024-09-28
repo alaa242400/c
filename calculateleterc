@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    char word[5]= "ahmed";
+    printf("%s", word);
+    return 0;
+}
